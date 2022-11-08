@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800,900&display=swap');
+body {
+    overflow-x: hidden;
+    text-align: left;
+}
+#header, #supercharge {
+    background-color: #fdf1ff;
+}
+
+.navbar-brand {
+    margin-left: 6.2em;
+}
+
+.navbar-nav {
+    margin-right: 3.5em;
+}
+
+.nav-a {
+    
+  font-family: 'Poppins', sans-serif;
+  color: #14004d;
+  margin-right: 2.5em;
+}
+
+.nav-a:hover {
+    background-color: #14004d;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+.btn-nav {
+    margin: -6.2px 0 0 10em;
+    background-color: #1f0076;
+    box-shadow: rgba(0, 0, 0, 0.08) 0px 12px 15px 0px;
+    border-radius: 8px;
+}
+
+.nav-btn {
+    color:#f4f4f4;
+}
+
+
+.nav-btn:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.cont-1 {
+    padding-bottom: 5%;
+}
+
+col-text {
+    margin-left: -3em;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 48px;
+    font-weight: bold;
+    color: #1f0076;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 1rem;
+    color: #4e4a5a;
+    font-size: 1rem;
+    line-height: 2rem;
+}
+
+#btn-1 {
+    background-color: #612ff1;
+    color: #fff;
+    border-radius: 8px;
+}
+
+#btn-1:over {
+    background-color: #5228cd;
+}
+
+#btn-2 {
+    color: #1f0076;
+    font-family: 'Poppins', sans-serif;
+    border: 2px solid #1f0076;
+    border-radius: 8px;
+}
+
+.img-1 {
+    margin-top: -2rem;
+}
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+    color: #1f0076;
+    font-weight: bolder;
+}
+
+.img-fluid {
+    height: auto;
+    width: 100%;
+
+}
+
+#create-team {
+    padding-top: 3%;
+}
+
+.ct-h1 {
+    font-weight: 800;
+    line-height: 60px;
+}
+
+.testimonials {
+    padding: 5%;
+}
+
+.nomenclature {
+    padding-left: 2%;
+    margin-top: 5%;
+}
+.nomenclature p {
+    font-size: 14px;
+}
+
+.partners-row {
+    padding: 10% 0;
+}
+.partners-row img{
+    width: 100%;
+}
+
+.sub {
+    background: linear-gradient(254.81deg,#d5569a 8.13%,#29009f 92.46%);
+    border-radius: 50px;
+}
+
+.input-group {
+    width: 80%;
+}
+
+.footer-logo img{
+    width: 8rem
+}
+
+.footer-row {
+    margin-left: 38%;
+}
+
+#ft-col-p a {
+    text-decoration: none;
+    color: #4e4a5a;
+}
+
+hr {
+    color:#4e4a5a;
+    width: 82%;
+    border-top: 1px solid;
+    opacity: 0.25;
+}
+
+.copyrightsm-row {
+    padding: 0 9% ;
+}
+
+.copyright {
+    font-size: 14px;
+}
+
+.sm a{
+   font-size: 25px;
+   margin-left: 30px; 
+   
+   color: #5228cd;
+   ;
+   
+}
+
