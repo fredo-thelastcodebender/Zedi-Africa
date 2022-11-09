@@ -98,6 +98,11 @@ h2 {
     font-weight: bolder;
 }
 
+h4 {
+    font-weight: bold;
+    color: #1f0076;
+}
+
 .img-fluid {
     height: auto;
     width: 100%;
@@ -172,9 +177,38 @@ hr {
 .sm a{
    font-size: 25px;
    margin-left: 30px; 
-   
    color: #5228cd;
-   ;
-   
 }
 
+@media screen and (max-width:768px) {
+    h1 {
+        font-size: 35px;
+    }
+
+    p {
+        width: 90%;
+    }
+
+    .img-1 img, .img-2 img, .ct-img img {
+        width: 100%;
+    }
+
+    .ct {
+      padding-left: 2rem;
+    }
+    .ct-img {
+       margin-left: -3rem;
+       padding-left: 2rem;
+    }
+
+    .ct-btn {
+        width: 12rem;
+        
+    }
+
+    .ct-h1 {
+        line-height: 45px;
+    }
+    
+    
+}
