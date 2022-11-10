@@ -244,6 +244,42 @@ hr {
     .ct-h1 {
         line-height: 45px;
     }
+
+    .sub {
+        width: 20rem;
+        height: 22rem
+    }
+
+    .sub h3 {
+        font-size: x-large;
+    }
+
+    .sub p {
+        font-size: 14px;
+    }
     
+    .input-group {
+        width: 100%;
+    }
     
+    .footer-logo img{
+        width: 5rem;
+        margin-left: -5.5rem;
+    }
+
+    .footer-logo {
+        padding-bottom: 8%;
+    }
+
+    .footer-row {
+        margin-left: 5%;
+    }
+
+    .footer-main p {
+        width: 18rem;
+    }
+
+    .copyrightsm-row {
+        width: 24rem;
+    }
 }
