@@ -181,13 +181,48 @@ hr {
 }
 
 @media screen and (max-width:768px) {
+ .collapse {
+        text-align: center;
+        margin-left: -4.3rem;
+    }
+
+    ul li {
+        line-height: 2rem;
+    }
+
+    .nav-a {
+        color: #29009f;
+    }
+
+    .nav-a:hover {
+        background-color: unset;
+        color: #29009f;
+    }
+
+    .btn-nav {
+        width: 8rem;
+        margin-right: 12.5em;
+        margin-top: .5rem;
+        background-color: #5228cd;
+        
+    }
     h1 {
         font-size: 35px;
+    }
+
+    h2 {
+        font-size: x-large;
     }
 
     p {
         width: 90%;
     }
+
+    .marketing-force {
+        padding-left: 2rem;
+    }
+
+   
 
     .img-1 img, .img-2 img, .ct-img img {
         width: 100%;
